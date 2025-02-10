@@ -1,5 +1,7 @@
 Nama : Muhamad Roprop Al Muntaha
+
 Nim  : 24552011040
+
 Mata kuliah : Algoritma Pemprograman
 
 disini saya membuat Projek bernama Sistem Rental Alat Camp, yang didalamnya terdapat 5 fitur utama diantaranya
