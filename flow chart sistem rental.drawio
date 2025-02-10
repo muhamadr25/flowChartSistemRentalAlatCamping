@@ -620,7 +620,7 @@
         <mxCell id="Obp_8akXt6wYcbRXopSG-208" value="&lt;font style=&quot;color: rgb(110, 255, 98);&quot;&gt;&amp;nbsp;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="673.5" y="1350" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BCUSOFv8M6wwi-hkYMqD-1" value="Flow chart Sistem Rental Camping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=10;fontStyle=1;fontSize=35;" vertex="1" parent="1">
+        <mxCell id="BCUSOFv8M6wwi-hkYMqD-1" value="Flow chart Sistem Rental Camping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=10;fontStyle=1;fontSize=35;" parent="1" vertex="1">
           <mxGeometry x="603" y="70" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
